@@ -1,9 +1,9 @@
 ## Welcome to Antropia
 
-- ✨ We're the rapid apps prototyping studio that turns "what if" into "what's next"
+- ✨ We're the rapid apps prototyping studio that turns "what if" into "what's next".
 - 🐼 We believe in open-source so here you will find our contributions, repositories and training materials.
-- 🌈 If you want to work with us, visit our webpage and leave us a message!
-- 🔗 [antropia.studio](https://antropia.studio/)
+- 🌈 If you want to work with us, visit [antropia.studio](https://antropia.studio/) and leave us a message!
+- 📘 Read about our latest thoughts in [our blog](https://antropia.studio/blog/).
 
 <!--
 
